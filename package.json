@@ -1,0 +1,13 @@
+{
+  "name": "release-day",
+  "version": "1.0.0",
+  "description": "Стартовий застосунок модуля 6 курсу Docker 2026: сторінка й лічильник відвідувань у томі /data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=26"
+  },
+  "license": "MIT"
+}
